@@ -4,7 +4,7 @@
 
 Analyze SpaceX's historical launch data to identify factors influencing rocket landing success using data analysis and machine learning.
 
-[](/assets/spaceximg.png)
+![](/assets/spaceximg.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
