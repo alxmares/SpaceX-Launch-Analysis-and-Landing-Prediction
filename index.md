@@ -13,6 +13,8 @@ layout: default
 ![Dash](https://img.shields.io/badge/Dash-%23004F7C.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+* * *
+
 ## 📊 Exploratory Data Analysis (EDA)
 
 In this project, I performed extensive exploratory data analysis to understand the nuances of SpaceX launch outcomes. Below are the key steps taken:
@@ -39,7 +41,7 @@ ORDER BY outcome_count DESC
 ```
 Output:
 | Landing_Outcome | Outcome_Count |
-|-----------------|---------------|
+|:----------------|:--------------|
 | No attempt	    | 10 |
 | Success (drone ship)	| 5 |
 | Failure (drone ship)	| 5 |
