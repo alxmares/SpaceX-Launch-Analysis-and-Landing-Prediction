@@ -41,7 +41,7 @@ ORDER BY outcome_count DESC
 ```
 Output:
 | Landing_Outcome        | Outcome_Count |
-|:-----------------------|--------------:|
+|:-----------------------|:--------------|
 | No attempt             | 10            |
 | Success (drone ship)   | 5             |
 | Failure (drone ship)   | 5             |
