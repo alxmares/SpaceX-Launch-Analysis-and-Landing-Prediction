@@ -1,0 +1,4 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: "SpaceX Launch Analysis and Landing Prediction" 
+description: "A comprehensive analysis of SpaceX launch data, employing various data science techniques to predict landing outcomes and extract meaningful insights"
+logo: /assets/spacex.jpg
