@@ -40,6 +40,7 @@ GROUP BY landing_outcome
 ORDER BY outcome_count DESC
 ```
 Output:
+
 | Landing_Outcome        | Outcome_Count |
 |:-----------------------|:--------------|
 | No attempt             | 10            |
@@ -91,6 +92,7 @@ Several machine learning algorithms were utilized to predict the landing outcome
    - **Test Accuracy**: 0.8333
 
 #### 🧠 Model Performance
+
 | Model | Test Accuracy |
 |-------|---------------|
 | Logistic Regression | 0.8333 |
