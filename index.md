@@ -40,16 +40,16 @@ GROUP BY landing_outcome
 ORDER BY outcome_count DESC
 ```
 Output:
-| Landing_Outcome | Outcome_Count |
-|:----------------|:--------------|
-| No attempt	    | 10 |
-| Success (drone ship)	| 5 |
-| Failure (drone ship)	| 5 |
-| Success (ground pad)	| 3 |
-| Controlled (ocean)	| 3 |
-| Uncontrolled (ocean)	| 2 |
-| Failure (parachute)	| 2 | 
-| Precluded (drone ship)	| 1 | 
+| Landing_Outcome        | Outcome_Count|
+|:-----------------------|:-------------|
+| No attempt	          | 10           |
+| Success (drone ship)   | 5            |
+| Failure (drone ship)   | 5            |
+| Success (ground pad)   | 3            |
+| Controlled (ocean)	    | 3            |
+| Uncontrolled (ocean)   | 2            |
+| Failure (parachute)    | 2            | 
+| Precluded (drone ship) | 1            | 
 
 ### 4. EDA Part 2
 #### Success Rate of Each Orbit
