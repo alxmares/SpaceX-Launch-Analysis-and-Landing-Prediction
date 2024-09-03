@@ -103,3 +103,11 @@ Several machine learning algorithms were utilized to predict the landing outcome
 ![Python](assets/spacex4.png)
 
 The results indicate that the Logistic Regression, SVM, and KNN models all performed equally well, achieving an accuracy of 83.33% on the test data. The Decision Tree model, while slightly less accurate, still provided valuable insights with an accuracy of 72.22%.
+
+* * *
+
+## 🚀 **Explore More Projects!**
+
+### [📚 Check out all my projects on GitHub Pages](https://alxmares.github.io)
+
+* * *
